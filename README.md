@@ -79,7 +79,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Souhardya20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1&custom_title=GitHub Stats" height="220" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Souhardya20&count_private=true&show_icons=true&theme=tokyonight" height="220" alt="stats graph"  />
 </div>
 
 ###
